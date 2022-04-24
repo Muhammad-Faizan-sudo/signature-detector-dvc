@@ -1,0 +1,4 @@
+[core]
+    remote = sig-out
+['remote "sig-out"']
+    url = gdrive://1TrgjMZFB2ghKFGfJCpXHlS2YSZlqkIZe
