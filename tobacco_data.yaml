@@ -1,0 +1,5 @@
+train: yolo_model/tobacco_yolo_format/images/train
+val: yolo_model/tobacco_yolo_format/images/valid
+
+nc: 2
+names: ['No signature', 'Signature']
